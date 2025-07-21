@@ -35,8 +35,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=default&cache_seconds=60
-" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=default&cache_seconds=60" alt="yingzya's GitHub stats" />
+</div>
 
