@@ -12,7 +12,6 @@
 - 🛠 I’m interested in **compilers**, **backend development**, and **AI-powered applications**
 - 🧩 Currently building:  
   `✔️ A C-minus compiler using Java (lexical + syntax + semantic)`  
-  `✔️ A license plate recognition system using YOLOv8 + LPRNet + Django + Vue3`
 
 ---
 
