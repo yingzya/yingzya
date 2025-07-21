@@ -30,7 +30,7 @@
 ### 📫 Contact Me
 
 - 💼 Email: `1764877886@qq.com`
-- 💬 Blog (optional): [https://yingzya.top](https://yingzya.top)
+- 💬 Blog : [https://yingzya.top](https://yingzya.top)
 - 📌 Location: `Guangxi University, China`
 
 ---
