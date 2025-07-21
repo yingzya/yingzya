@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=radical" alt="yingzya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=default" alt="yingzya's GitHub stats" />
 </p>
