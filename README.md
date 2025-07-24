@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a Computer Science student at **[GXU University]**
-- 🛠 I’m interested in **compilers**, **backend development**, and **AI-powered applications**
+- 🛠 I’m interested in **backend development**, and **AI-powered applications**
 - 🧩 Currently building:  
   `✔️ A C-minus compiler using Java (lexical + syntax + semantic)`  
 
