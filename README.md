@@ -8,7 +8,7 @@
 
 **Coding Language**
 
-![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)![](https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)![](https://img.shields.io/badge/JAVA-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)![](https://img.shields.io/badge/PYTHON-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
 **Operating System**
 
