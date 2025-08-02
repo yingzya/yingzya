@@ -1,6 +1,6 @@
 **About Me**
 
-你好，我是轻语.
+你好，我是轻语.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=vue&hide_border=true" />
@@ -13,6 +13,4 @@
 **Operating System**
 
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)![](https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)
-
-
 
