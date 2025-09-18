@@ -3,7 +3,7 @@
 你好，我是轻语.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=vue&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yingzya&show_icons=true&theme=vue&hide_border=true" />
 </a>
 
 **Coding Language**
